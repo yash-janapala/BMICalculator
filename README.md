@@ -1,5 +1,5 @@
-# Effect Hook | Part 2
-
+# Effect Hook
+BMI CALCULATOR
 - Persisting Application data
   - Local Storage
 - Storing values in Local Storage
